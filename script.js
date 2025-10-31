@@ -6,4 +6,4 @@ var scoops = prompt("How many scoops?");
 // if scoosp is creater than three, alert ("Max 3 scoops!")
 if (scoops > 3) alert ("You are fat enough.");
 // otherwise alert "You want " scoops " scoops of " flavor
-else alert("You want " + scoops + " scoops of " + flavor.)
+else alert("You want " + scoops + " scoops of " + flavor.) ;
